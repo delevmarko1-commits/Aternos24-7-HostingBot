@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": 24/7BOT ,
   "bot-account": {
-    "username": "AFK_Bot123",
+    "username": "24/7BOT",
     "type": "offline"
   },
   "server": {
@@ -25,7 +25,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -36,8 +36,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 5000,
-    "max-reconnect-delay": 60000,
+    "auto-reconnect-delay": 1000000,
+    "max-reconnect-delay": 1100000,
     "periodic-rejoin": {
       "enabled": false,
       "min-interval": 20,
